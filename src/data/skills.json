@@ -1,0 +1,38 @@
+[
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Angular",
+    "imageSrc": "skills/Angular.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/C++.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/Java.png"
+  },
+  {
+    "title": "Spring Boot",
+    "imageSrc": "skills/SpringBoot.png"
+  },
+  {
+    "title": "Spark SQL",
+    "imageSrc": "skills/SparkSQL.png"
+  },
+  {
+    "title": "Scala",
+    "imageSrc": "skills/Scala.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongo.png"
+  },
+  {
+    "title": "git",
+    "imageSrc": "skills/git.png"
+  }
+]

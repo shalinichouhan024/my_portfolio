@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Self Managed Analytics Reporting Tool",
+    "imageSrc": "projects/project.png",
+    "description": "Transformed RDD codebase into optimised Spark SQL codebase for different metrics with 100K+ data records resulting in 80% reduction in processing time.",
+    "skills": ["Java 8", "Spring Boot", "Spark-SQL", "Scala", "HBase", "Git"], 
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Click Stream Analysis",
+    "imageSrc": "projects/project.png",
+    "description": "Developed efficent system to analyse large amounts of data on click by implementing various MapReduce, Hive and Spark jobs, resulting in 60% improvement in data processing speed.",
+    "skills": ["Hadoop", "Hive", "Spark", "Zeppelin"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Insurance Application",
+    "imageSrc": "projects/project.png",
+    "description": "App to sign up, log in, perform CRUD operations and search for insurance policies. Implemented best practices like JavaDocs, Naming Conventions, Logging, Exception Handling, JUnit Testing.",
+    "skills": ["Java 8", "Angular", "Spring Boot", "MySQL"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

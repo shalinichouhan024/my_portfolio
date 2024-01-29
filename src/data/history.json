@@ -1,0 +1,12 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Impetus Technologies (India) Pvt. Ltd",
+    "startDate": "May, 2021",
+    "endDate": "Present",
+    "experiences": ["Worked with AMEX SMART team.","Analyzed requirement by participating in design reviews with peers and stakeholders.", "Transformed RDD code into Spark SQL code based on Product Owner's requirements.", 
+    "Optimized code for metrics with >100K data records, resulting in up to 80% reduction in processing time.", "Improved code using SonarLint, adhering to best practices such as style guidelines, accuracy, testability, and efficiency.", 
+    "Updated documentation and educational content based on user feedback and program updates.", "Performed JUnit testing to debug/track/resolve system issues/errors by analyzing the sources of issues and the impact on hardware, network, or service operations and quality."],
+    "imageSrc": "history/impetus.png"
+  }
+]
