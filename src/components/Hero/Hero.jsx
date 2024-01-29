@@ -15,7 +15,7 @@ export const Hero = () => {
       
         <a
         href={getPdfUrl("hero/cv.pdf")}
-        download="Shalini_Chouhan_SWE"
+        download="Shalini_Chouhan_SDE_Resume"
         target="_blank"
         rel="noreferrer"
         className={styles.contactBtn}
