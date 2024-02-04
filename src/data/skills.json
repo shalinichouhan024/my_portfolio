@@ -1,11 +1,15 @@
 [
   {
-    "title": "React",
-    "imageSrc": "skills/react.png"
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
   },
   {
-    "title": "Angular",
-    "imageSrc": "skills/Angular.png"
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/JS.webp"
   },
   {
     "title": "C++",
@@ -26,10 +30,6 @@
   {
     "title": "Scala",
     "imageSrc": "skills/Scala.png"
-  },
-  {
-    "title": "MongoDB",
-    "imageSrc": "skills/mongo.png"
   },
   {
     "title": "git",
